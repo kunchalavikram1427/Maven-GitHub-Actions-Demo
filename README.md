@@ -1,4 +1,4 @@
-#  Simple Maven Application for GitHub Actions Demo
+#  Simple Maven Application for GitHub Actions Demo 2
 
 ### References
  - https://maven.apache.org/pom.html
